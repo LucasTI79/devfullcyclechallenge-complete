@@ -14,7 +14,6 @@ docker compose up -d
 Abra o ambiente do servidor grpc
 ```sh
 docker exec -it server bash
-go run main.go grpc
 ```
 
 Execute o ambiente do servidor grpc

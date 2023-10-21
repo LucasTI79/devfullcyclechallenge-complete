@@ -1,7 +1,0 @@
-[submodule "challengegrpc"]
-    path = challengegrpc
-    url = git@github.com:LucasTI79/challengegrpc.git
-
-[submodule "challengenest"]
-    path = challengenest
-    url = git@github.com:LucasTI79/challengenest.git
